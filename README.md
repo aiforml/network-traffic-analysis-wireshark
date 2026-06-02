@@ -1,5 +1,9 @@
 # Network Traffic Analysis using Wireshark
 
+## Project Preview
+
+![Wireshark Traffic Analysis](screenshots/http_traffic.png)
+
 ## Overview
 
 This project explores fundamental network communication and security concepts through practical traffic analysis using Wireshark.
@@ -48,6 +52,18 @@ Observed TLS handshake and encrypted communication over HTTPS.
 * `screenshots/` → Wireshark screenshots
 * `sample_capture/` → Sample packet capture file
 
+## Learning Outcomes
+
+Through this project I gained practical exposure to:
+
+- TCP connection establishment
+- Packet-level traffic observation
+- HTTP vs HTTPS communication
+- TLS-based encryption concepts
+- Network visibility and security implications
+- Basic traffic analysis using Wireshark
+
 ## Conclusion
 
-This project provided hands-on exposure to packet analysis, protocol behavior and network security fundamentals relevant to cybersecurity and cyber resilience.
+This project provided practical exposure to packet analysis and network communication behavior using Wireshark. Through hands-on observation of TCP, HTTP and HTTPS traffic, it strengthened understanding of secure communication, protocol behavior and the role of traffic visibility in cybersecurity and cyber resilience.
+
